@@ -49,6 +49,11 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.span2{
+    font-weight: bold;
+    color:indigo;
+}
 .Flexible3{
     display: flex;
     background-image: url(images/exp-bg.png);
