@@ -31,6 +31,7 @@ h2{
 }
 
 .link-button{
+    display: inline-block;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     color:white;
@@ -38,7 +39,7 @@ h2{
     text-decoration: none;
     font-weight: 900px;
     font-size: 25px;
-    margin-top: 40px;
+    margin-top: 20px;
     
 }
  
@@ -52,7 +53,7 @@ h2{
 
 .span2{
     font-weight: bold;
-    color:indigo;
+    color:orange;
 }
 .Flexible3{
     display: flex;
